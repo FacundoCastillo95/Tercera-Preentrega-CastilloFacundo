@@ -1,0 +1,7 @@
+[2022-05-13T11:16:53.773] [ERROR] error - Error al conectarse a la base de datos!!
+[2022-05-13T11:22:36.830] [ERROR] error - Error en servidor Error: listen EADDRINUSE: address already in use :::8080
+[2022-05-13T11:22:38.483] [ERROR] error - Error al conectarse a la base de datos!!
+[2022-05-13T11:26:19.755] [ERROR] error - Error en servidor Error: listen EADDRINUSE: address already in use :::8080
+[2022-05-13T11:40:43.386] [ERROR] error - Error en servidor Error: listen EADDRINUSE: address already in use :::8081
+[2022-05-13T11:48:51.806] [ERROR] error - Error en servidor Error: listen EADDRINUSE: address already in use :::8081
+[2022-05-13T11:49:18.526] [ERROR] error - Error en servidor Error: listen EADDRINUSE: address already in use :::8080
